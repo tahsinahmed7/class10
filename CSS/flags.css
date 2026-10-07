@@ -1,0 +1,513 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flag{
+    width: 1600px;
+    height: auto;
+    background: whitesmoke;
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+    flex-wrap: wrap;
+}
+.one{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    position: relative;
+}
+.red{
+    width: 110px;
+    height: 110px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+.two{
+     width: 300px;
+    height: 150px;
+    background-color: black;
+}
+.darkred{
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    position: relative;
+    top: 50px;
+}
+.gold{
+    width: 300px;
+    height: 50px;
+    background-color: gold;
+    position: relative;
+    top: 50px;
+
+}
+.three{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+}
+.white{
+    
+     width: 100px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+    
+}
+.red2{
+      width: 100px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+
+}
+.four{
+    
+     width: 300px;
+    height: 150px;
+    background-color: red;
+
+}
+.stars{
+     width: 80px;
+    height: 80px;
+    background-image: url(../Images/china-Picsart-BackgroundRemover.png);
+    background-size: cover;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.five{
+      width: 300px;
+    height: 150px;
+    background-color: orangered;
+    position: relative;
+
+}
+.tringle{
+       width: 0;
+      height: 0;
+      
+      border-top: 150px solid orange;
+      border-right: 300px solid transparent;
+}
+ .dragon{
+     width: 250px;
+    height: 250px;
+    background-image: url(../Images/dragon-flag-bhutan-symbol-271429107-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+ }
+.six{
+       width: 300px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+
+}
+.cr7{
+     width: 120px;
+    height: 150px;
+    background-color: green;
+     
+}
+.por{
+     width: 100px;
+    height: 100px;
+background-image: url(../Images/Portugal-Picsart-BackgroundRemover.webp);
+    background-size: cover;
+    position: absolute;
+    left: 23%;
+    top: 19% ;
+
+}
+
+.seven{
+  width: 300px;
+    height: 150px;
+    background-color: rgb(115, 168, 34);
+    position: relative;
+
+}
+.shape{
+       width: 0;
+      height: 0;
+      border-top: 50px solid transparent;
+      border-right: 100px solid yellow;
+      border-bottom: 50px solid transparent;
+      position: absolute;
+      top: 18%;
+      left: 16%;
+}
+.shape2{
+     width: 0;
+      height: 0;
+      border-top: 50px solid transparent;
+      border-left: 100px solid yellow;
+      border-bottom: 50px solid transparent;
+      position: absolute;
+       top: 18%;
+      right: 18%;
+}
+.brazil{
+     width: 70px;
+    height: 70px;
+background-image: url(../Images/br_globe.gif);
+    background-size: cover;
+    position: absolute;
+    left: 50%;
+    top: 50% ;
+    transform: translate(-50%,-50%);
+}
+.eight{
+      width: 300px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+
+}
+.ek{
+    width: 300px;
+    height: 10px;
+    background-color: red;
+}
+.do{
+    width: 300px;
+    height: 10px;
+    background-color: red;
+    margin-top: 10px;
+}
+.teen{
+    width: 300px;
+    height: 10px;
+    background-color: red;
+    margin-top: 10px;
+}
+.char{
+     width: 300px;
+    height: 10px;
+    background-color: red;
+    margin-top: 10px;
+}
+.pach{
+     width: 300px;
+    height: 10px;
+    background-color: red;
+    margin-top: 10px;
+}
+.choi{
+     width: 300px;
+    height: 10px;
+    background-color: red;
+    margin-top: 10px;
+}
+.saat{
+     width: 300px;
+    height: 10px;
+    background-color: red;
+    margin-top: 10px;
+}
+.aath{
+      width: 300px;
+    height: 10px;
+    background-color: red;
+    margin-top: 10px;
+   
+}
+.block{
+     width: 130px;
+    height: 80px;
+    background-color: darkblue;
+     position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.star{
+    width: 100px;
+    height: 100px;
+background-image: url(../Images/Malaysia.png);
+    background-size: cover;
+    position: absolute;
+    left: 20px;
+    bottom: 58px;
+}
+.nine{
+      width: 300px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+
+}
+.albania{
+     width: 150px;
+    height: 150px;
+background-image: url(../Images/Flag-Albania-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.ten{
+      width: 300px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+
+}
+.cyprus{
+     width: 150px;
+    height: 150px;
+background-image: url(../Images/Flag-Cyprus-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.eleven{
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+}
+.macadonia{
+     width: 300px;
+    height: 150px;
+background-image: url(../Images/Flag_of_North_Macedonia.svg.png);
+    background-size: cover;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.twelve{
+    width: 300px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+}
+.nepal{
+      width: 150px;
+    height: 150px;
+background-image: url(../Images/nepal-flag-icon-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+.thirteen{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    position: relative;
+}
+.pak{
+    width: 100px;
+    height: 150px;
+    background-color: white;
+}
+.pakistan{
+     position: absolute;
+  top: 6px;
+  left: 167px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  box-shadow: -15px 5px 0 0 #ffffff;
+  transform: rotate(-35deg);
+}
+.pakistan2{
+    position: absolute;
+  top: 25px;
+  left: 200px;
+  width: 45px;
+  height: 45px;
+  background-color: #ffffff;
+  clip-path: polygon(
+    50% 0%, 
+    61% 35%, 
+    98% 35%, 
+    68% 57%, 
+    79% 91%, 
+    50% 70%, 
+    21% 91%, 
+    32% 57%, 
+    2% 35%, 
+    39% 35%
+  );
+  transform: rotate(-15deg);
+}
+
+.fourteen{
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+}
+.phili{
+    width: 300px;
+    height: 75px;
+    background-color: darkblue;
+}
+.phili2{
+     width: 0px;
+      height: 0px;
+      border-top: 75px solid transparent;
+      border-left: 140px solid white;
+      border-bottom: 75px solid transparent;
+      position: absolute;
+      left: 0;
+      top: 0;
+}
+.phili3{
+    width: 120px;
+    height: 120px;
+background-image: url(../Images/philippine-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    right: 195px;
+    top: 12px;
+   
+}
+.fifteen{
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+}
+.mor{
+     width: 50px;
+    height: 50px;
+background-image: url(../Images/morocco-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.sixteen{
+     width: 300px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.middle{
+     width: 200px;
+    height: 200px;
+background-image: url(../Images/Flag-Tunisia-removebg-preview\ \(1\).png);
+    background-size: cover;
+    position: absolute;
+    left: 0%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.seventeen{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    position: relative;
+}
+.saudi{
+ width:285px;
+    height: 225px;
+background-image: url(../Images/Flag_of_Saudi_Arabia__type_2_.svg-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    left: 41%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.eighteen{
+    width: 300px;
+    height: 150px;
+    background-color: black;
+    position: relative;
+}
+.angolo{
+    width: 300px;
+    height: 75px;
+    background-color: red;
+    
+}
+.mid{
+    width:285px;
+    height: 225px;
+background-image: url(../Images/angolo-removebg-preview.png);
+    background-size: cover;
+    position: absolute;
+    left: 41%;
+    top: 50%;
+    transform: translate(-50%,-50%); 
+}
+.nineteen{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(21, 148, 21);
+    position: relative;
+}
+.bukino{
+    width: 300px;
+    height: 75px;
+    background-color: red;
+}
+.faso{
+    width: 50px;  
+  aspect-ratio: 1;
+  background: #F8CA00;
+  clip-path: polygon(50% 0,
+    calc(50%*(1 + sin(.4turn))) calc(50%*(1 - cos(.4turn))),
+    calc(50%*(1 - sin(.2turn))) calc(50%*(1 - cos(.2turn))),
+    calc(50%*(1 + sin(.2turn))) calc(50%*(1 - cos(.2turn))),
+    calc(50%*(1 - sin(.4turn))) calc(50%*(1 - cos(.4turn))) 
+   ); 
+  /* or more simple
+  clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%); 
+   */
+   position: absolute;
+   left: 43%;
+   top: 35%;
+}
+.twenty{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+}
+.mad{
+    width: 300px;
+    height: 75px;
+    background-color: red;
+}
+.gascar{
+      width: 100px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    left: 0;
+    bottom: 75px;
+}
